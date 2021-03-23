@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-from-News-Headlines
+# Stock-Sentiment-Analysis-from-News-Headlines
